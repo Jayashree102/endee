@@ -1,170 +1,89 @@
-\# 🤖 AI Knowledge Assistant (RAG + Semantic Search)
+🤖 AI Knowledge Assistant (RAG + Semantic Search)
 
 
+📌 Overview
 
-\## 📌 Overview
-
-
-
-This project is an AI-powered Knowledge Assistant built using \*\*Retrieval-Augmented Generation (RAG)\*\* and \*\*Semantic Search\*\*.
+This project is an AI-powered Knowledge Assistant built using Retrieval-Augmented Generation (RAG) and Semantic Search.
 
 It allows users to ask questions and retrieves the most relevant information from the dataset.
-
-
 
 The system processes documents, converts them into embeddings, and performs intelligent search to provide accurate answers.
 
 
+🚀 Features
 
-\---
+ 🔍 Semantic Search using vector embeddings
 
+ 🧠 Retrieval-Augmented Generation (RAG)
 
+ 📄 Reads and processes multiple documents
 
-\## 🚀 Features
+ ⚡ Fast and relevant search results
 
-
-
-\* 🔍 Semantic Search using vector embeddings
-
-\* 🧠 Retrieval-Augmented Generation (RAG)
-
-\* 📄 Reads and processes multiple documents
-
-\* ⚡ Fast and relevant search results
-
-\* 💬 Interactive command-line interface
+ 💬 Interactive command-line interface
 
 
+ 🛠️ Tech Stack
 
-\---
+ Python
 
+ Vector Database (Endee dataset)
 
+ Embedding Models
 
-\## 🛠️ Tech Stack
-
-
-
-\* Python
-
-\* Vector Database (Endee dataset)
-
-\* Embedding Models
-
-\* RAG Pipeline
+ RAG Pipeline
 
 
+ 📂 Project Structure
 
-\---
-
-
-
-\## 📂 Project Structure
-
-
-
-```
 
 ai-search/
 
-│── app.py              # Main application file
+│── app.py             
 
-│── README.md           # Project documentation
+│── README.md           
 
-│── requirements.txt    # Dependencies
-
-```
+│── requirements.txt    
 
 
+ ⚙️ Installation \& Setup
 
-\---
-
-
-
-\## ⚙️ Installation \& Setup
-
-
-
-\### 1. Clone the repository
-
-
-
-```bash
+1. Clone the repository
 
 git clone https://github.com/Jayashree102/endee.git
 
 cd endee/ai-search
 
-```
 
-
-
-\### 2. Install dependencies
-
-
-
-```bash
+2. Install dependencies
 
 pip install -r requirements.txt
 
-```
 
-
-
-\### 3. Run the project
-
-
-
-```bash
+3. Run the project
 
 python app.py
 
-```
 
+💡 Usage
 
+Run the application
 
-\---
+Ask any question related to the dataset
 
-
-
-\## 💡 Usage
-
-
-
-\* Run the application
-
-\* Ask any question related to the dataset
-
-\* Get relevant answers instantly
-
+Get relevant answers instantly
 
 
 Example:
-
-
-
-```
 
 Ask: What is Endee?
 
 Answer: Endee is a high-performance open-source vector database...
 
-```
 
-
-
-\---
-
-
-
-\## 📊 Sample Output
-
-
-
-```
+📊 Sample Output
 
 🤖 AI Knowledge Assistant Ready!
-
-
 
 🔍 Ask: What is AI?
 
@@ -174,51 +93,29 @@ Answer: Endee is a high-performance open-source vector database...
 
 👉 AI is the simulation of human intelligence in machines...
 
-```
+
+🎯 Future Improvements
 
 
+🌐 Web-based UI
 
-\---
+🔗 API integration
 
+📈 Improved ranking algorithms
 
-
-\## 🎯 Future Improvements
-
-
-
-\* 🌐 Web-based UI
-
-\* 🔗 API integration
-
-\* 📈 Improved ranking algorithms
-
-\* 🤖 Advanced LLM integration
+🤖 Advanced LLM integration
 
 
+👩‍💻 Author
 
-\---
-
-
-
-\## 👩‍💻 Author
-
-
-
-\*\*Jayashree K\*\*
+Jayashree K
 
 📧 \[kjayashree182@gmail.com](mailto:kjayashree182@gmail.com)
 
 🔗 GitHub: https://github.com/Jayashree102/endee/tree/master/ai-search
 
 
-
-\---
-
-
-
-\## 📜 License
-
-
+📜 License
 
 This project is for educational purposes.
 
