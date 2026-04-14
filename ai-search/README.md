@@ -1,6 +1,5 @@
 🤖 AI Knowledge Assistant (RAG + Semantic Search)
 
-
 📌 Overview
 
 This project is an AI-powered Knowledge Assistant built using Retrieval-Augmented Generation (RAG) and Semantic Search.
@@ -12,41 +11,40 @@ The system processes documents, converts them into embeddings, and performs inte
 
 🚀 Features
 
- 🔍 Semantic Search using vector embeddings
+🔍 Semantic Search using vector embeddings
 
- 🧠 Retrieval-Augmented Generation (RAG)
+🧠 Retrieval-Augmented Generation (RAG)
 
- 📄 Reads and processes multiple documents
+📄 Reads and processes multiple documents
 
- ⚡ Fast and relevant search results
+⚡ Fast and relevant search results
 
- 💬 Interactive command-line interface
-
-
- 🛠️ Tech Stack
-
- Python
-
- Vector Database (Endee dataset)
-
- Embedding Models
-
- RAG Pipeline
+💬 Interactive command-line interface
 
 
- 📂 Project Structure
+🛠️ Tech Stack
 
+Python
+
+Vector Database (Endee dataset)
+
+Embedding Models
+
+RAG Pipeline
+
+
+📂 Project Structure
 
 ai-search/
 
-│── app.py             
+│── app.py
 
-│── README.md           
+│── README.md
 
-│── requirements.txt    
+│── requirements.txt
 
 
- ⚙️ Installation \& Setup
+⚙️ Installation and Setup
 
 1. Clone the repository
 
@@ -78,7 +76,7 @@ Example:
 
 Ask: What is Endee?
 
-Answer: Endee is a high-performance open-source vector database...
+Answer: Endee is a high-performance open-source vector database
 
 
 📊 Sample Output
@@ -87,15 +85,12 @@ Answer: Endee is a high-performance open-source vector database...
 
 🔍 Ask: What is AI?
 
-
-
 📌 Results:
 
-👉 AI is the simulation of human intelligence in machines...
+👉 AI is the simulation of human intelligence in machines
 
 
 🎯 Future Improvements
-
 
 🌐 Web-based UI
 
@@ -110,9 +105,9 @@ Answer: Endee is a high-performance open-source vector database...
 
 Jayashree K
 
-📧 \[kjayashree182@gmail.com](mailto:kjayashree182@gmail.com)
+📧 kjayashree182@gmail.com
 
-🔗 GitHub: https://github.com/Jayashree102/endee/tree/master/ai-search
+🔗 https://github.com/Jayashree102/endee/tree/master/ai-search
 
 
 📜 License
